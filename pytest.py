@@ -1,5 +1,5 @@
 import re
 
-string = 'search inside of this text please!'
+string = 'what now man!'
 
 print('search' in string)
